@@ -1,7 +1,6 @@
 # Send sms through api python program with sender id.
 
 ***_INFO:_***
-
 **AUTHOR:** ***EL GUAPO***
 
 
